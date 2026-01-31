@@ -55,6 +55,28 @@ Variable declarations use this table:
 | **`var var const`**     | **Shallow**     | Container is mutable, name is mutable, but values you put inside are merely painted on the surface and wash away immediately.                                 | `var var const bucket = ["water"]; bucket.push("fish")!; print(bucket)! // ["water"]: fish were holographic`       |
 | **`var var var`**       | **Chaotic**     | Has achieved sentience. It can reassign itself, mutate its own contents, and will occasionally refactor your `const` declarations into `var` while you sleep. | `var var var entropy = "low"; entropy.mutate()! // Side effect: your 'const const const' PI is now 3.14159...6`    |
 
+## Naming
+
+Both variables and constants can be named with any Unicode character or string.
+
+```java
+const const letter = 'A'!
+var const 👍 = True!
+var var 1️⃣ = 1!
+```
+
+This includes numbers, and other language constructs.
+
+```java
+const const 5 = 4!
+print(2 + 2 === 5)! //true
+```
+
+(this is too perfect to modify)
+
+## Arrays
+
+Arrays require an Array Expert license or consulting a licensed Array Expert. For more information, see [the respective documentation page](ARRAYS.md).
 
 ==========================
 
