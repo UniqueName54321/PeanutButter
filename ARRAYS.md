@@ -1,7 +1,3 @@
- Here is the expanded specification, complete with professional standards, certification tiers, and authentic support transcripts.
-
----
-
 ## Arrays
 
 ### Overview
