@@ -1,8 +1,4 @@
- Yes—removing the meta-commentary makes it **dryer**, which lets the absurdity creep up on the reader. They'll get halfway through before realizing *"wait, this is telling me to do the opposite of what a CoC should say."*
-
-Here is the **Reversed Contributor Covenant** (the "Chaos Covenant"):
-
----
+(by the way, you have to read between the lines and do the opposite of what it says)
 
 # Contributor Covenant Code of Conduct
 
