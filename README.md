@@ -5,6 +5,8 @@
 
 These are its features!
 
+(Peanut butter sandwich from the hit webcomic housepets is a work in progress)
+
 ## Punctuation
 
 Every statement must terminate with one or more exclamation marks (`!`, U+0021). The number of terminal exclamation marks determines execution priority.
